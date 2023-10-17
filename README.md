@@ -4,7 +4,7 @@
 
 ## Education
 
--B.S., Computer Technology | Multimedia University (December 2022)
+- B.S., Computer Technology | Multimedia University (December 2022)
 
 ## Work Experience
 
