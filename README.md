@@ -1,4 +1,4 @@
-![Agape Banner](banner.png)
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Power BI
