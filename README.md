@@ -5,7 +5,8 @@
 
 ## Education
 
-- B.Sc in Computer Technology Multimedia University (December 2022)
+- Data Science Bootcamp - Moringa School(2023)
+- B.Sc in Computer Technology - Multimedia University (December 2022)
 
 ## Work Experience
 
